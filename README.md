@@ -1,5 +1,5 @@
 # Project_JerryDunnTribute
-A mini project of a tribute page to practice HTML and CSS
+A mini project of a profile page to practice HTML,CSS and Sass
 ## Getting started
 ### Collect articles & photos
 ---
@@ -11,6 +11,6 @@ A mini project of a tribute page to practice HTML and CSS
 ### Build HTML
 - Initial : Aug 28 2020
 ### Add CSS
-- consider using Bootstrap
+- consider using Bootstrap, Sass
 ### Built with
-- HTML/CSS
+- HTML/CSS/Sass
