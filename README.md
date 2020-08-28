@@ -1,4 +1,4 @@
-# Project_JerryDunnTribute
+# Project_JerryDunnProfile
 A mini project of a profile page to practice HTML,CSS and Sass
 ## Getting started
 ### Collect articles & photos
